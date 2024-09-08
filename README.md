@@ -5,3 +5,7 @@ El lenguaje ensamblador es un lenguaje de programación de bajo nivel que se uti
 
 # Desarrollo de la Actividad
 Para lograr los objetivos propuestos, se desarrollaron tres scripts en ensamblador MIPS: el primero identifica el número mayor entre una serie de 3 a 5 valores ingresados; el segundo determina el número menor; y el tercero genera la serie de Fibonacci hasta una posición dada, calculando además la suma de los términos generados.
+
+## Conclusiones
+
+El uso de ensamblador permitió un control exhaustivo sobre las operaciones del procesador, destacando la eficiencia en el manejo de registros y la ejecución de instrucciones básicas.
